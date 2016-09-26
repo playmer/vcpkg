@@ -1,0 +1,4 @@
+Source: gorrila-audio
+Version: 0.3.1
+Build-Depends: openal-soft
+Description: Gorilla Audio is an attempt to make a free, straightforward, cross-platform, high-level software audio mixer that supports playback of both static and streaming sounds. It is intended for video game development, but should easily support many other real-time audio software applications. Defaults to build with OpenAL-Soft
